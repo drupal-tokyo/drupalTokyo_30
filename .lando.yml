@@ -1,0 +1,4 @@
+name: varbase-demo
+recipe: drupal8
+config:
+  webroot: docroot
